@@ -1,0 +1,5 @@
+/frontend/.next
+/frontend/node_modules
+/frontend/yarn.lock
+/anchor/scripts/node_modules
+/anchor/scripts/yarn.lock
